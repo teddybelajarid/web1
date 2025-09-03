@@ -1,6 +1,6 @@
 #!/bin/bash
 # ==============================================
-# 🚀 GitHub Repo Manager - by Teddy (versi gabungan)
+# 🚀 GitHub Repo Manager - by Teddy v online
 # ==============================================
 
 BASE_DIR=$(pwd)
@@ -9,7 +9,7 @@ BASE_DIR=$(pwd)
 show_menu() {
     clear
     echo "=============================================="
-    echo "   🚀 GitHub Repo Manager - by Teddy "
+    echo "   🚀 GitHub Repo Manager Online - by Teddy "
     echo "=============================================="
     echo "📂 PWD aktif: $(pwd)"
     echo
